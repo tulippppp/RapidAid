@@ -1,0 +1,7 @@
+{
+  "name": "RapidAid",
+  "description": "A real-time emergency response mobile app designed to connect patients with nearby doctors instantly. This prototype demonstrates the core functionality for a hackathon, allowing users to switch between a patient view with an SOS button and a doctor view to receive alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
